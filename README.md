@@ -13,8 +13,8 @@
 
 ## Tech Stack
 
-**Languages:** Java · Python · C · Rust · TypeScript · Assembly · Haskell
-**Tools:** Docker · Git · Linux · IntelliJ · STM32 · Arduino
+**Languages:** Java · Python · C · Rust · TypeScript · Assembly · Haskell            
+**Tools:** Docker · Git · Linux · IntelliJ · Arduino
 
 ---
 
