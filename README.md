@@ -6,8 +6,8 @@
 
 > [!NOTE]
 > **Location:** Bucharest, Romania  
-> **Currently:** Software Engineering Intern @ Gradient Zero & Student @ ACS UPB  
-> **Faculty of Automatic Control and Computer Science, UPB** (2023 - 2027)
+> **Education:** Faculty of Automatic Control and Computer Science, UPB (2023 - 2027)     
+> **My interests:** Software Engineering
 
 ---
 
