@@ -28,9 +28,3 @@ Volunteer coordination tooling built with the Romanian Red Cross dev team.
 
 **[Minimalistic Arcade Games](https://github.com/malinacojocaru/Minimalistic-Arcade-Games)** — `Python`
 Small arcade games, written to keep the logic as small and readable as possible.
-
----
-
-## GitHub Stats
-
-![Malina's GitHub stats](https://github-readme-stats.vercel.app/api?username=malinacojocaru&show_icons=true&theme=monokai)
